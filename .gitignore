@@ -11,8 +11,6 @@ package-lock.json
 yarn.lock
 npm-debug.log
 
-dist/
-
 # WebStorm
 .idea
 
